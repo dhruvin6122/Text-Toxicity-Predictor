@@ -11,11 +11,19 @@ This project classifies whether a comment contains **toxic, threatening, or hate
 
 ## 📸 Screenshots
 
-Visual demonstration of comment classification results:
+### ✅ Non-Toxic Comment Predictions
 
-| ✅ Clean Comment | ❌ Toxic Comment |
-|------------------|-----------------|
-| ![Clean](https://via.placeholder.com/350x200?text=Clean+Prediction) | ![Toxic](https://via.placeholder.com/350x200?text=Toxic+Prediction) |
+| Comment 1 | Comment 2 |
+|-----------|-----------|
+| ![Non-Toxic 1](https://raw.githubusercontent.com/dhruvin6122/Text-Toxicity-Predictor/main/Text-Toxicity-Predictor/screenshorts/nontoxic1.png) | ![Non-Toxic 2](https://raw.githubusercontent.com/dhruvin6122/Text-Toxicity-Predictor/main/Text-Toxicity-Predictor/screenshorts/nontoxic2.png) |
+
+---
+
+### ❌ Toxic Comment Predictions
+
+| Comment 1 | Comment 2 |
+|-----------|-----------|
+| ![Toxic 1](https://raw.githubusercontent.com/dhruvin6122/Text-Toxicity-Predictor/main/Text-Toxicity-Predictor/screenshorts/toxic1.png) | ![Toxic 2](https://raw.githubusercontent.com/dhruvin6122/Text-Toxicity-Predictor/main/Text-Toxicity-Predictor/screenshorts/toxic2.png) |
 
 ---
 
