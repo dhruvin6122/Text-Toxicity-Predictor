@@ -8,11 +8,6 @@ This project classifies whether a comment contains **toxic, threatening, or hate
 
 ---
 
-## 🚀 Demo
-
-> Coming soon or deploy on [Streamlit Cloud](https://share.streamlit.io)
-
----
 
 ## 📸 Screenshots
 
@@ -91,20 +86,7 @@ Used the official **Jigsaw Toxic Comment Classification Challenge** dataset.
 | Model         | Logistic Regression                          |
 | Deployment    | Streamlit Cloud / Local                      |
 
----
 
-## 📦 Download Full Project + Models
-
-You can download the **trained model, vectorizer, and dataset** here:
-
-🔗 [📁 Google Drive – Toxic Comment Detector Files](https://drive.google.com/drive/folders/1vkZuEqSc27pHc9xOxNlvPzKx8J7p9xWE?usp=sharing)
-
-Includes:
-- `train.csv` (Kaggle dataset)
-- `logistic_model.pkl`
-- `tfidf_vectorizer.pkl`
-- `notebook.ipynb` (training code)
-- `app.py` (Streamlit UI)
 
 ---
 
